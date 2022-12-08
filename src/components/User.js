@@ -11,7 +11,7 @@ function User(props) {
           console.log(props.handleDelete);
         }}
       >
-        삭제하기
+        삭제하기!
       </CustomButton>
     </div>
   );
